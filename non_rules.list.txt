@@ -1,0 +1,5 @@
+DOMAIN,ciallo.party
+DOMAIN,emby1.123456789.lol
+DOMAIN,emby.nebula-media.org
+DOMAIN,mini.jmsuper.com
+DOMAIN,embyplus.org
