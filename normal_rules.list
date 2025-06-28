@@ -1,5 +1,5 @@
 DOMAIN,cf.5msky.com
-DOMAIN,yhemby.top,
+DOMAIN,yhemby.top
 IP-CIDR,193.122.114.13/32
 IP-CIDR,167.235.118.41/32
 DOMAIN-KEYWORD,follow.is
@@ -18,7 +18,8 @@ DOMAIN,nanflix.net
 DOMAIN,eggtartemby.itsmyduty.top
 DOMAIN,yhemby.top 
 IP-CIDR,45.119.99.41/32
-DOMAIN,emby.yomo.lol
+DOMAIN,emby.yomo.lol   #YOMO
+DOMIN,emby.yamo.uk     #YOMO
 DOMAIN,emby.lilyya.xyz
 DOMAIN,jsq.vban.xyz
 DOMAIN,cf1.jmsuper.com 
