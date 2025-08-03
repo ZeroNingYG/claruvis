@@ -1,0 +1,11 @@
+DOMAIN,c1.staryuki.me
+DOMAIN,fast-1.staryuki.me.kiven.cc 
+DOMAIN,fast-v6.staryuki.me.kiven.cc
+DOMAIN,cdn.lilyemby.my
+DOMAIN,jp.lilyemby.my
+DOMAIN,by.lilyemby.my
+DOMAIN,tx.lilyemby.my
+DOMAIN,
+DOMAIN,
+
+
