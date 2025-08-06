@@ -1,5 +1,7 @@
+DOMAIN,de1.staryuki.me
 DOMAIN,us3.staryuki.me
 DOMAIN,us4.staryuki.me
+# STAR EMBY
 DOMAIN,lite.cn2gias.uk
 DOMAIN,emby.heisi.org
 DOMAIN,zoxfree.3767483.xyz
@@ -42,3 +44,4 @@ DOMAIN,flare.catlinks.co.uk
 DOMAIN,stream.ntrrr.top
 IP-CIDR,193.123.232.141/32
 DOMAIN,pub2.emby.wtf
+
