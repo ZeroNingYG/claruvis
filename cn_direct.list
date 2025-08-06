@@ -1,16 +1,11 @@
 DOMAIN,c1.staryuki.me                      
-# STAR
 DOMAIN,fast-1.staryuki.me.kiven.cc        
-# STAR
 DOMAIN,fast-v6.staryuki.me.kiven.cc       
 # STAR
-DOMAIN,cdn.lilyemby.my                    
+DOMAIN,cdn.lilyemby.my                                       
+DOMAIN,tx.lilyemby.my
+DOMAIN,o1.lilyemby.my
+DOMAIN,o2.lilyemby.my
+DOMAIN,o3.lilyemby.my
 # lily
-DOMAIN,jp.lilyemby.my                     
-# lily
-DOMAIN,by.lilyemby.my                      
-# lily
-DOMAIN,tx.lilyemby.my                      
-# lily
-DOMAIN,
-DOMAIN,
+
