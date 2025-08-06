@@ -1,47 +1,70 @@
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
+# 站点站
+DOMAIN,stream.ntrrr.top
+# ntrrr
+DOMAIN,cc.coemn.com
+DOMAIN,cc.embycc.link
+# CC
+DOMAIN,embymv.link
+# peach
+DOMAIN,jsq.vban.xyz
+# 见手青
+DOMAIN,us.nanflix.net
+# NanflixUSA
+DOMAIN,cf.5msky.com
+# MSKY
+DOMAIN,cf.lilyemby.my 
+DOMAIN,cfemby.lilyya.xyz
+# Lily
+DOMAIN,zoxfree.3767483.xyz
+# ZOX
 DOMAIN,de1.staryuki.me
 DOMAIN,us3.staryuki.me
 DOMAIN,us4.staryuki.me
 # STAR EMBY
-DOMAIN,lite.cn2gias.uk
 DOMAIN,emby.heisi.org
-DOMAIN,zoxfree.3767483.xyz
+# 游骑兵
+DOMAIN,lite.cn2gias.uk
+DOMAIN,lite-v6.cn2gias.uk
+#SNTP_lite
+DOMAIN,emby.1l1.icu
+# Prejudice
+DOMAIN,emby.yamo.uk 
+# YOMO
 DOMAIN,ch.feiyue.lol
-DOMAIN,cf.5msky.com
-DOMAIN,yhemby.top
+# 飞跃彩虹
+DOMAIN,eggtartemby.itsmyduty.top
+# Levilde Luminia
+DOMAIN,tv.micu.hk
+# MICU
+DOMAIN-KEYWORD,follow.is
+# FOLO
+
+
+IP-CIDR,152.53.19.231/32
+IP-CIDR,193.123.232.141/32
+IP-CIDR,45.119.99.41/32
 IP-CIDR,193.122.114.13/32
 IP-CIDR,167.235.118.41/32
-DOMAIN-KEYWORD,follow.is
 DOMAIN,beebi.org 
-DOMAIN,ad.auroramedia.vip
-DOMAIN,emby.1l1.icu 
-DOMAIN,us.nanflix.net
-DOMAIN,cf.lilyemby.my 
-DOMAIN,cfemby.lilyya.xyz
 DOMAIN,cavps.eu.org 
-DOMAIN,pub1.emby.wtf 
-DOMAIN,abc.auroramedia.vip
 DOMAIN,cdnemby.lilyya.xyz
 DOMAIN,7777777.buzz 
 DOMAIN,nanflix.net
-DOMAIN,eggtartemby.itsmyduty.top
 DOMAIN,yhemby.top 
-IP-CIDR,45.119.99.41/32
-DOMAIN,emby.yomo.lol    
-DOMAIN,emby.yamo.uk   
+DOMAIN,emby.yomo.lol     
 DOMAIN,emby.lilyya.xyz
-DOMAIN,jsq.vban.xyz
 DOMAIN,cf1.jmsuper.com 
 DOMAIN,cf.jmsooo.com
 DOMAIN,play.charontv.com
 DOMAIN,581658.best
 DOMAIN,emby.tnx.one
-DOMAIN,cc.coemn.com
-DOMAIN,tv.micu.hk
-IP-CIDR,152.53.19.231/32
 DOMAIN,789.123456.al
-DOMAIN,pub3.emby.wtf
 DOMAIN,flare.catlinks.co.uk
-DOMAIN,stream.ntrrr.top
-IP-CIDR,193.123.232.141/32
-DOMAIN,pub2.emby.wtf
+
+
+
+
 
