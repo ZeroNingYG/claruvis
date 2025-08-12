@@ -39,8 +39,22 @@ DOMAIN,eggtartemby.itsmyduty.top
 # Levilde Luminia
 DOMAIN,tv.micu.hk
 # MICU
-DOMAIN-KEYWORD,follow.is
-# FOLO
+DOMAIN,a1.handoumedia.top
+DOMAIN,a2.handoumedia.top
+DOMAIN,a3.handoumedia.top
+DOMAIN,b1.handoumedia.top
+DOMAIN,b2.handoumedia.top
+# 憨豆Emby
+
+
+
+
+
+
+
+
+
+
 
 
 IP-CIDR,152.53.19.231/32
@@ -58,6 +72,7 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,play.charontv.com
 DOMAIN,581658.best
 DOMAIN,flare.catlinks.co.uk
+
 
 
 
