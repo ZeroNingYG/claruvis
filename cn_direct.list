@@ -1,11 +1,12 @@
-DOMAIN,c1.staryuki.me                      
-DOMAIN,fast-1.staryuki.me.kiven.cc        
-DOMAIN,fast-v6.staryuki.me.kiven.cc       
+DOMAIN-SUFFIX,c1.staryuki.me                      
+DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc        
+DOMAIN-SUFFIX,fast-v6.staryuki.me.kiven.cc       
 # STAR
-DOMAIN,cdn.lilyemby.my                                       
-DOMAIN,tx.lilyemby.my
-DOMAIN,o1.lilyemby.my
-DOMAIN,o2.lilyemby.my
-DOMAIN,o3.lilyemby.my
+DOMAIN-SUFFIX,cdn.lilyemby.my                                       
+DOMAIN-SUFFIX,tx.lilyemby.my
+DOMAIN-SUFFIX,o1.lilyemby.my
+DOMAIN-SUFFIX,o2.lilyemby.my
+DOMAIN-SUFFIX,o3.lilyemby.my
 # lily
+
 
