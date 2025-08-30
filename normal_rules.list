@@ -51,6 +51,8 @@ DOMAIN-SUFFIX,a3.handoumedia.top
 DOMAIN-SUFFIX,b1.handoumedia.top
 DOMAIN-SUFFIX,b2.handoumedia.top
 # 憨豆Emby
+DOMAIN-SUFFIX,emby.younoyes.com
+# YounoEmby
 
 
 
@@ -78,6 +80,7 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,play.charontv.com
 DOMAIN,581658.best
 DOMAIN,flare.catlinks.co.uk
+
 
 
 
