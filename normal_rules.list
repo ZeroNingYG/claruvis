@@ -15,9 +15,9 @@ DOMAIN-SUFFIX,us.nanflix.net
 # NanflixUSA
 DOMAIN-SUFFIX,cf.5msky.com
 # MSKY
-DOMAIN-SUFFIX,cf.lilyemby.my 
+DOMAIN-SUFFIX,cf.lilyemby.com
 DOMAIN-SUFFIX,cfemby.lilyya.xyz
-DOMAIN-SUFFIX,www.lilyemby.my
+DOMAIN-SUFFIX,www.lilyemby.com
 # Lily
 DOMAIN-SUFFIX,zoxfree.3767483.xyz
 # ZOX
@@ -84,6 +84,7 @@ DOMAIN,cf.jmsooo.com
 DOMAIN,play.charontv.com
 DOMAIN,581658.best
 DOMAIN,flare.catlinks.co.uk
+
 
 
 
