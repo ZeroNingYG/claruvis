@@ -2,15 +2,16 @@ DOMAIN-SUFFIX,c1.staryuki.me
 DOMAIN-SUFFIX,fast-1.staryuki.me.kiven.cc        
 DOMAIN-SUFFIX,fast-v6.staryuki.me.kiven.cc       
 # STAR
-DOMAIN-SUFFIX,cdn.lilyemby.my                                       
-DOMAIN-SUFFIX,tx.lilyemby.my
-DOMAIN-SUFFIX,o1.lilyemby.my
-DOMAIN-SUFFIX,o2.lilyemby.my
-DOMAIN-SUFFIX,o3.lilyemby.my
+DOMAIN-SUFFIX,cdn.lilyemby.com                                      
+DOMAIN-SUFFIX,tx.lilyemby.com
+DOMAIN-SUFFIX,o1.lilyemby.com
+DOMAIN-SUFFIX,o2.lilyemby.com
+DOMAIN-SUFFIX,o3.lilyemby.com
 # lily
 DOMAIN-SUFFIX,jp.younoyes.com
 DOMAIN-SUFFIX,us.younoyes.com
 # YounoEmby
+
 
 
 
