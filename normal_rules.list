@@ -8,8 +8,7 @@ DOMAIN-SUFFIX,embymv.link
 # peach
 DOMAIN-SUFFIX,a.mooguu.top
 # 见手青
-DOMAIN-SUFFIX,us.nanflix.net
-# NanflixUSA
+
 DOMAIN-SUFFIX,wcf.3msky.com
 DOMAIN-SUFFIX,gcf.betop.uk
 # MSKY
@@ -18,18 +17,7 @@ DOMAIN-SUFFIX,cfemby.lilyya.xyz
 DOMAIN-SUFFIX,www.lilyemby.com
 DOMAIN-SUFFIX,free.lilyemby.com
 # Lily
-DOMAIN-SUFFIX,zoxfree.3767483.xyz
-# ZOX
-DOMAIN-SUFFIX,de1.staryuki.me
-DOMAIN-SUFFIX,s1.staryuki.me
-DOMAIN-SUFFIX,us3.staryuki.me
-DOMAIN-SUFFIX,us4.staryuki.me
-DOMAIN-SUFFIX,cf-star1.staryuki.me
-DOMAIN-SUFFIX,eo-star.staryuki.com
-# STAR EMBY
-DOMAIN-SUFFIX,de2.staryuki.me
-DOMAIN-SUFFIX,c2.staryuki.me 
-# STAR EMBY2
+
 DOMAIN-SUFFIX,emby.heisi.org
 # 游骑兵
 DOMAIN-SUFFIX,lite.cn2gias.uk
@@ -50,8 +38,7 @@ DOMAIN-SUFFIX,a3.handoumedia.top
 DOMAIN-SUFFIX,b1.handoumedia.top
 DOMAIN-SUFFIX,b2.handoumedia.top
 # 憨豆Emby
-DOMAIN-SUFFIX,emos.lol
-# Emos
+
 DOMAIN-SUFFIX,cf.cinetrail.live
 DOMAIN-SUFFIX,cf.aixj.de
 # 影迹
@@ -74,6 +61,9 @@ DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,c.emby.wtf
 # 站点站
+DOMAIN-SUFFIX,goemby.entertang.work
+DOMAIN-SUFFIX,etf.entertang.work
+# ETF Emby
 
 
 
