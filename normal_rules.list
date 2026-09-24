@@ -69,6 +69,11 @@ DOMAIN-SUFFIX,cf.sfcj.org
 DOMAIN-SUFFIX,media.emby.pro
 # 非越
 
+DOMAIN-SUFFIX,embyplus.org
+DOMAIN-SUFFIX,v2.9521732.xyz
+DOMAIN-SUFFIX,v2.embyplus.org
+# 纸片人
+
 
 DOMAIN-SUFFIX,googlevideo.com
 # googlevideo
