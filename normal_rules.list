@@ -65,6 +65,11 @@ DOMAIN-SUFFIX,goemby.entertang.work
 DOMAIN-SUFFIX,etf.entertang.work
 # ETF Emby
 
+DOMAIN-SUFFIX,cf.sfcj.org
+DOMAIN-SUFFIX,media.emby.pro
+# 非越
+
+
 DOMAIN-SUFFIX,googlevideo.com
 # googlevideo
 
