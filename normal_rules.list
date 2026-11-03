@@ -63,8 +63,11 @@ DOMAIN-SUFFIX,pub2.emby.wtf
 DOMAIN-SUFFIX,pub3.emby.wtf
 DOMAIN-SUFFIX,c.emby.wtf
 # 站点站
+
 DOMAIN-SUFFIX,goemby.entertang.work
 DOMAIN-SUFFIX,etf.entertang.work
+DOMAIN-SUFFIX,goemby.etflix.lol
+DOMAIN-SUFFIX,embygogo.entertang.work
 # ETF Emby
 
 DOMAIN-SUFFIX,cf.sfcj.org
